@@ -4,6 +4,11 @@
 
 [![wakatime](https://wakatime.com/badge/user/b4244c58-bd49-4c2e-a795-38296a9170bc.svg)](https://wakatime.com/@b4244c58-bd49-4c2e-a795-38296a9170bc)
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Vue.js%2C+Laravel)](https://git.io/typing-svg)
   
 - 🔭 I’m currently working on a cool project.
