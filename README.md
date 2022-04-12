@@ -10,15 +10,6 @@
 </p>
 
 ---
-
-<p align="center">
-<a href="https://wakatime.com/@b4244c58-bd49-4c2e-a795-38296a9170bc" target="_blank"><img align="center" src="https://wakatime.com/badge/user/b4244c58-bd49-4c2e-a795-38296a9170bc.svg" alt="bazmaster" /></a>
-</p>
-
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
   
 - 🔭 I’m currently working on a cool project.
 - 🌱 I’m currently learning Composition API, Docker, Laravel and many other cool things.
@@ -36,6 +27,17 @@
 <a href="https://twitter.com/bazilio100lei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bazilio100lei" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bazmaster/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bazmaster/" height="30" width="40" /></a>
 </p>
+
+---
+
+
+<p align="center">
+<a href="https://wakatime.com/@b4244c58-bd49-4c2e-a795-38296a9170bc" target="_blank"><img align="center" src="https://wakatime.com/badge/user/b4244c58-bd49-4c2e-a795-38296a9170bc.svg" alt="bazmaster" /></a>
+</p>
+
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
