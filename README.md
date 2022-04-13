@@ -19,11 +19,11 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">   
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer" title="Laravel"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer" title="Vue.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
   <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer" title="VuePress"><img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/></a>
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer" title="VuetifyJS"><img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="Amazon Web Services"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer" title="Babel"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="Bash"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer" title="ChartJS"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>
@@ -39,12 +39,12 @@
 <p align="center"> 
   <a href="https://ifttt.com/" target="_blank" rel="noreferrer" title="IfTTT"><img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/></a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" title="Adobe Illustrator"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer" title="Jenkins"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer" title="Laravel"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer" title="MariaDB"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
   <a href="https://materializecss.com/" target="_blank" rel="noreferrer" title="MaterializeCSS"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="Amazon Web Services"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer" title="Babel"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://nativescript.org/" target="_blank" rel="noreferrer" title="NativeScript"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/></a>
@@ -84,7 +84,7 @@
 
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/bazmaster"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bazmaster&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+<a href="https://www.buymeacoffee.com/bazmaster" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bazmaster&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 </p>
 
 ---
