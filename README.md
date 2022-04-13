@@ -37,6 +37,8 @@
 
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-922%20hrs%2051%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-383%20Thousand%20lines%20of%20code-blue)
@@ -70,13 +72,20 @@ Sunday       22 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Kiev
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    5 hrs 40 mins       █████████████████████░░░░   85.92% 
+PHP                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.51% 
+Vue.js                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.88% 
+Blade Template           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58% 
+SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  5 hrs 40 mins       █████████████████████░░░░   85.92% 
+PhpStorm                 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61% 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 33 mins       █████████████████████████   99.54% 
+Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
 
 ```
 
@@ -93,7 +102,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12.04.2022 22:09:54 UTC
+ Last Updated on 13.04.2022 00:38:58 UTC
 <!--END_SECTION:waka-->
 
 ---
