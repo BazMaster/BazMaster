@@ -95,7 +95,7 @@
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-934%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -158,7 +158,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11.05.2022 20:11:41 UTC
+ Last Updated on 11.05.2022 22:10:54 UTC
 <!--END_SECTION:waka-->
 
 ---
