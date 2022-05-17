@@ -89,6 +89,8 @@
 
 ---
 
+<details>
+<summary>Wakatime Stats</summary>
 
 <p align="center">
 <a href="https://wakatime.com/@b4244c58-bd49-4c2e-a795-38296a9170bc" target="_blank"><img align="center" src="https://wakatime.com/badge/user/b4244c58-bd49-4c2e-a795-38296a9170bc.svg" alt="bazmaster" /></a>
@@ -160,8 +162,10 @@ HTML                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 12.05.2022 08:13:01 UTC
 <!--END_SECTION:waka-->
+</details>
 
----
+<details>
+<summary>Github Stats</summary>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BazMaster&count_private=true&show_icons=true&theme=buefy" />
@@ -185,6 +189,9 @@ HTML                     1 repo              █░░░░░░░░░░�
 <p align="center">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=BazMaster&theme=react-dark" alt="bazmaster" />
 </p>
+  
+</details>
+
 <p align="center">
   <img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling" alt="bazmaster" />
 </p>
