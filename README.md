@@ -92,9 +92,7 @@
 <details>
 <summary>Wakatime Stats</summary>
 
-<p align="center">
-<a href="https://wakatime.com/@b4244c58-bd49-4c2e-a795-38296a9170bc" target="_blank"><img align="center" src="https://wakatime.com/badge/user/b4244c58-bd49-4c2e-a795-38296a9170bc.svg" alt="bazmaster" /></a>
-</p>
+[![wakatime](https://wakatime.com/badge/user/b4244c58-bd49-4c2e-a795-38296a9170bc.svg)](https://wakatime.com/@b4244c58-bd49-4c2e-a795-38296a9170bc)
   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-935%20hrs%2025%20mins-blue)
