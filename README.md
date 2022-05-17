@@ -92,6 +92,8 @@
 <details>
 <summary>Wakatime Stats</summary>
 
+  > <a href="https://wakatime.com/about" target="_blank">WakaTime</a> is committed to making time tracking fully automatic for every programmer.
+
 [![wakatime](https://wakatime.com/badge/user/b4244c58-bd49-4c2e-a795-38296a9170bc.svg)](https://wakatime.com/@b4244c58-bd49-4c2e-a795-38296a9170bc)
   
 <!--START_SECTION:waka-->
