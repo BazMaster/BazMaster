@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, I'm Vasili Stoleicov</h1>
-<h3 align="center">A passionate Ful Stack developer from Moldova</h3>
+<h3 align="center">A passionate Ful Stack developer from Eastern Europe</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&width=250&lines=Full+Stack+developer;Vue.js;Laravel" />
