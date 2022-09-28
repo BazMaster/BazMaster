@@ -12,7 +12,7 @@
 ---
   
 - 🔭 I’m currently working on a cool project.
-- 🌱 I’m currently learning Composition API, Docker, Laravel and many other cool things.
+- 🌱 I’m currently learning many cool things.
 
 
 
